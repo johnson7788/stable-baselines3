@@ -28,6 +28,7 @@ you can take a look at the issues [#48](https://github.com/DLR-RM/stable-baselin
 | Custom environments         | :heavy_check_mark: |
 | Custom policies             | :heavy_check_mark: |
 | Common interface            | :heavy_check_mark: |
+| `Dict` observation space support  | :heavy_check_mark: |
 | Ipython / Notebook friendly | :heavy_check_mark: |
 | Tensorboard support         | :heavy_check_mark: |
 | PEP8 code style             | :heavy_check_mark: |
@@ -78,7 +79,7 @@ Documentation is available online: [https://sb3-contrib.readthedocs.io/](https:/
 
 ## Installation
 
-**Note:** Stable-Baselines3 supports PyTorch 1.4+.
+**Note:** Stable-Baselines3 supports PyTorch >= 1.8.1.
 
 ### Prerequisites
 Stable Baselines3 requires python 3.6+.
